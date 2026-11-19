@@ -1,0 +1,25 @@
+name: eyecatch
+on:
+  push:
+    paths: ["requests/*.json"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: eyecatch
+  cancel-in-progress: false
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install -q pillow
+      - name: Generate
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: python scripts/eyecatch.py
+      - name: Commit results
+        if: always()
+        run: bash scripts/commit_results.sh "eyecatch results"
