@@ -1,0 +1,106 @@
+[
+ {
+  "id": "01_seventies_klein",
+  "model": "klein",
+  "style": "seventies",
+  "seed": 1466694045,
+  "prompt": "Wide blog header logo design. The text \"KING OF THE POP\" is the main element, very large and bold, filling most of the canvas, spelled exactly, highly legible even when scaled down. A smaller second line reads \"SAM GRIFFIN  PART 2\". Style: 1970s groovy rounded display type, warm stripes. Color palette limited to coral red #e8343a, pale yellow #efe2a0, warm gold #c9a45a, off white #f7f5ec, near black #1d1a17. Abstract or typographic only: no fishing lures, no fish, no product, no brand logos, no photographs, no extra words. Do not draw any lure, popper, bait or fishing tackle.",
+  "sec": 10.1,
+  "error": null,
+  "raw_size": [
+   1280,
+   672
+  ]
+ },
+ {
+  "id": "02_seventies_klein",
+  "model": "klein",
+  "style": "seventies",
+  "seed": 346989164,
+  "prompt": "Wide blog header logo design. The text \"KING OF THE POP\" is the main element, very large and bold, filling most of the canvas, spelled exactly, highly legible even when scaled down. A smaller second line reads \"SAM GRIFFIN  PART 2\". Style: 1970s groovy rounded display type, warm stripes. Color palette limited to coral red #e8343a, pale yellow #efe2a0, warm gold #c9a45a, off white #f7f5ec, near black #1d1a17. Abstract or typographic only: no fishing lures, no fish, no product, no brand logos, no photographs, no extra words. Do not draw any lure, popper, bait or fishing tackle.",
+  "sec": 10.7,
+  "error": null,
+  "raw_size": [
+   1280,
+   672
+  ]
+ },
+ {
+  "id": "03_seventies_klein",
+  "model": "klein",
+  "style": "seventies",
+  "seed": 1124208177,
+  "prompt": "Wide blog header logo design. The text \"KING OF THE POP\" is the main element, very large and bold, filling most of the canvas, spelled exactly, highly legible even when scaled down. A smaller second line reads \"SAM GRIFFIN  PART 2\". Style: 1970s groovy rounded display type, warm stripes. Color palette limited to coral red #e8343a, pale yellow #efe2a0, warm gold #c9a45a, off white #f7f5ec, near black #1d1a17. Abstract or typographic only: no fishing lures, no fish, no product, no brand logos, no photographs, no extra words. Do not draw any lure, popper, bait or fishing tackle.",
+  "sec": 11.2,
+  "error": null,
+  "raw_size": [
+   1280,
+   672
+  ]
+ },
+ {
+  "id": "04_seventies_klein",
+  "model": "klein",
+  "style": "seventies",
+  "seed": 1861278034,
+  "prompt": "Wide blog header logo design. The text \"KING OF THE POP\" is the main element, very large and bold, filling most of the canvas, spelled exactly, highly legible even when scaled down. A smaller second line reads \"SAM GRIFFIN  PART 2\". Style: 1970s groovy rounded display type, warm stripes. Color palette limited to coral red #e8343a, pale yellow #efe2a0, warm gold #c9a45a, off white #f7f5ec, near black #1d1a17. Abstract or typographic only: no fishing lures, no fish, no product, no brand logos, no photographs, no extra words. Do not draw any lure, popper, bait or fishing tackle.",
+  "sec": 8.0,
+  "error": null,
+  "raw_size": [
+   1280,
+   672
+  ]
+ },
+ {
+  "id": "05_seventies_schnell",
+  "model": "schnell",
+  "style": "seventies",
+  "seed": 458787969,
+  "prompt": "Wide blog header logo design. The text \"KING OF THE POP\" is the main element, very large and bold, filling most of the canvas, spelled exactly, highly legible even when scaled down. A smaller second line reads \"SAM GRIFFIN  PART 2\". Style: 1970s groovy rounded display type, warm stripes. Color palette limited to coral red #e8343a, pale yellow #efe2a0, warm gold #c9a45a, off white #f7f5ec, near black #1d1a17. Abstract or typographic only: no fishing lures, no fish, no product, no brand logos, no photographs, no extra words. Do not draw any lure, popper, bait or fishing tackle.",
+  "sec": 2.6,
+  "error": null,
+  "raw_size": [
+   1024,
+   1024
+  ]
+ },
+ {
+  "id": "06_seventies_schnell",
+  "model": "schnell",
+  "style": "seventies",
+  "seed": 926381585,
+  "prompt": "Wide blog header logo design. The text \"KING OF THE POP\" is the main element, very large and bold, filling most of the canvas, spelled exactly, highly legible even when scaled down. A smaller second line reads \"SAM GRIFFIN  PART 2\". Style: 1970s groovy rounded display type, warm stripes. Color palette limited to coral red #e8343a, pale yellow #efe2a0, warm gold #c9a45a, off white #f7f5ec, near black #1d1a17. Abstract or typographic only: no fishing lures, no fish, no product, no brand logos, no photographs, no extra words. Do not draw any lure, popper, bait or fishing tackle.",
+  "sec": 2.5,
+  "error": null,
+  "raw_size": [
+   1024,
+   1024
+  ]
+ },
+ {
+  "id": "07_seventies_schnell",
+  "model": "schnell",
+  "style": "seventies",
+  "seed": 1865879592,
+  "prompt": "Wide blog header logo design. The text \"KING OF THE POP\" is the main element, very large and bold, filling most of the canvas, spelled exactly, highly legible even when scaled down. A smaller second line reads \"SAM GRIFFIN  PART 2\". Style: 1970s groovy rounded display type, warm stripes. Color palette limited to coral red #e8343a, pale yellow #efe2a0, warm gold #c9a45a, off white #f7f5ec, near black #1d1a17. Abstract or typographic only: no fishing lures, no fish, no product, no brand logos, no photographs, no extra words. Do not draw any lure, popper, bait or fishing tackle.",
+  "sec": 2.5,
+  "error": null,
+  "raw_size": [
+   1024,
+   1024
+  ]
+ },
+ {
+  "id": "08_seventies_schnell",
+  "model": "schnell",
+  "style": "seventies",
+  "seed": 1258673671,
+  "prompt": "Wide blog header logo design. The text \"KING OF THE POP\" is the main element, very large and bold, filling most of the canvas, spelled exactly, highly legible even when scaled down. A smaller second line reads \"SAM GRIFFIN  PART 2\". Style: 1970s groovy rounded display type, warm stripes. Color palette limited to coral red #e8343a, pale yellow #efe2a0, warm gold #c9a45a, off white #f7f5ec, near black #1d1a17. Abstract or typographic only: no fishing lures, no fish, no product, no brand logos, no photographs, no extra words. Do not draw any lure, popper, bait or fishing tackle.",
+  "sec": 3.3,
+  "error": null,
+  "raw_size": [
+   1024,
+   1024
+  ]
+ }
+]
