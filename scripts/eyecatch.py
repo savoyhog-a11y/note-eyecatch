@@ -54,7 +54,7 @@ def call(model, prompt, seed):
         ) + f"--{b}--\r\n".encode()
         ctype = f"multipart/form-data; boundary={b}"
     else:
-        body = json.dumps({"prompt": prompt, "steps": 8, "seed": seed}).encode()
+        body = json.dumps({"prompt": prompt, "steps": 8}).encode()  # schnell は seed を受け付けない
         ctype = "application/json"
     req = urllib.request.Request(url, data=body, method="POST",
                                  headers={"Authorization": f"Bearer {TOK}", "Content-Type": ctype})
