@@ -1,0 +1,90 @@
+[
+ {
+  "id": "01_vintage_klein",
+  "model": "klein",
+  "style": "vintage",
+  "seed": 1959801641,
+  "prompt": "Wide blog header logo design. The text \"KING OF THE POP\" is the main element, very large and bold, filling most of the canvas, spelled exactly, highly legible even when scaled down. A smaller second line reads \"SAM GRIFFIN  PART 2\". Style: 1960s American sporting-goods catalog typography, slightly distressed offset print, cream paper. Color palette limited to coral red #e8343a, pale yellow #efe2a0, warm gold #c9a45a, off white #f7f5ec, near black #1d1a17. Abstract or typographic only: no fishing lures, no fish, no product, no brand logos, no photographs, no extra words. Do not draw any lure, popper, bait or fishing tackle.",
+  "sec": 10.7,
+  "error": null,
+  "raw_size": [
+   1280,
+   672
+  ]
+ },
+ {
+  "id": "02_vintage_schnell",
+  "model": "schnell",
+  "style": "vintage",
+  "seed": 913108215,
+  "prompt": "Wide blog header logo design. The text \"KING OF THE POP\" is the main element, very large and bold, filling most of the canvas, spelled exactly, highly legible even when scaled down. A smaller second line reads \"SAM GRIFFIN  PART 2\". Style: 1960s American sporting-goods catalog typography, slightly distressed offset print, cream paper. Color palette limited to coral red #e8343a, pale yellow #efe2a0, warm gold #c9a45a, off white #f7f5ec, near black #1d1a17. Abstract or typographic only: no fishing lures, no fish, no product, no brand logos, no photographs, no extra words. Do not draw any lure, popper, bait or fishing tackle.",
+  "sec": 0.0,
+  "error": "HTTP 400: {\"errors\":[{\"message\":\"AiError: Bad input: Error: Additional or unevaluated properties '/seed' at '/' not allowed (7ba684b4-1fd2-48da-89ee-5443e992ad0f)\",\"code\":5006}],\"success\":false,\"result\":{},\"messages\":[]}"
+ },
+ {
+  "id": "02_signpaint_klein",
+  "model": "klein",
+  "style": "signpaint",
+  "seed": 183893079,
+  "prompt": "Wide blog header logo design. The text \"KING OF THE POP\" is the main element, very large and bold, filling most of the canvas, spelled exactly, highly legible even when scaled down. A smaller second line reads \"SAM GRIFFIN  PART 2\". Style: hand-painted sign lettering, brush strokes, weathered wood board texture. Color palette limited to coral red #e8343a, pale yellow #efe2a0, warm gold #c9a45a, off white #f7f5ec, near black #1d1a17. Abstract or typographic only: no fishing lures, no fish, no product, no brand logos, no photographs, no extra words. Do not draw any lure, popper, bait or fishing tackle.",
+  "sec": 9.4,
+  "error": null,
+  "raw_size": [
+   1280,
+   672
+  ]
+ },
+ {
+  "id": "03_signpaint_schnell",
+  "model": "schnell",
+  "style": "signpaint",
+  "seed": 309403435,
+  "prompt": "Wide blog header logo design. The text \"KING OF THE POP\" is the main element, very large and bold, filling most of the canvas, spelled exactly, highly legible even when scaled down. A smaller second line reads \"SAM GRIFFIN  PART 2\". Style: hand-painted sign lettering, brush strokes, weathered wood board texture. Color palette limited to coral red #e8343a, pale yellow #efe2a0, warm gold #c9a45a, off white #f7f5ec, near black #1d1a17. Abstract or typographic only: no fishing lures, no fish, no product, no brand logos, no photographs, no extra words. Do not draw any lure, popper, bait or fishing tackle.",
+  "sec": 0.1,
+  "error": "HTTP 400: {\"errors\":[{\"message\":\"AiError: Bad input: Error: Additional or unevaluated properties '/seed' at '/' not allowed (228a774d-efc8-4a4a-b2b6-af32dbe36ed6)\",\"code\":5006}],\"success\":false,\"result\":{},\"messages\":[]}"
+ },
+ {
+  "id": "03_screenprint_klein",
+  "model": "klein",
+  "style": "screenprint",
+  "seed": 751087042,
+  "prompt": "Wide blog header logo design. The text \"KING OF THE POP\" is the main element, very large and bold, filling most of the canvas, spelled exactly, highly legible even when scaled down. A smaller second line reads \"SAM GRIFFIN  PART 2\". Style: retro two-color screen print with halftone dots and slight misregistration. Color palette limited to coral red #e8343a, pale yellow #efe2a0, warm gold #c9a45a, off white #f7f5ec, near black #1d1a17. Abstract or typographic only: no fishing lures, no fish, no product, no brand logos, no photographs, no extra words. Do not draw any lure, popper, bait or fishing tackle.",
+  "sec": 10.4,
+  "error": null,
+  "raw_size": [
+   1280,
+   672
+  ]
+ },
+ {
+  "id": "04_screenprint_schnell",
+  "model": "schnell",
+  "style": "screenprint",
+  "seed": 464931308,
+  "prompt": "Wide blog header logo design. The text \"KING OF THE POP\" is the main element, very large and bold, filling most of the canvas, spelled exactly, highly legible even when scaled down. A smaller second line reads \"SAM GRIFFIN  PART 2\". Style: retro two-color screen print with halftone dots and slight misregistration. Color palette limited to coral red #e8343a, pale yellow #efe2a0, warm gold #c9a45a, off white #f7f5ec, near black #1d1a17. Abstract or typographic only: no fishing lures, no fish, no product, no brand logos, no photographs, no extra words. Do not draw any lure, popper, bait or fishing tackle.",
+  "sec": 0.1,
+  "error": "HTTP 400: {\"errors\":[{\"message\":\"AiError: Bad input: Error: Additional or unevaluated properties '/seed' at '/' not allowed (a983e41f-6e12-455f-89bf-4bd0679450e4)\",\"code\":5006}],\"success\":false,\"result\":{},\"messages\":[]}"
+ },
+ {
+  "id": "04_seventies_klein",
+  "model": "klein",
+  "style": "seventies",
+  "seed": 162422829,
+  "prompt": "Wide blog header logo design. The text \"KING OF THE POP\" is the main element, very large and bold, filling most of the canvas, spelled exactly, highly legible even when scaled down. A smaller second line reads \"SAM GRIFFIN  PART 2\". Style: 1970s groovy rounded display type, warm stripes. Color palette limited to coral red #e8343a, pale yellow #efe2a0, warm gold #c9a45a, off white #f7f5ec, near black #1d1a17. Abstract or typographic only: no fishing lures, no fish, no product, no brand logos, no photographs, no extra words. Do not draw any lure, popper, bait or fishing tackle.",
+  "sec": 10.9,
+  "error": null,
+  "raw_size": [
+   1280,
+   672
+  ]
+ },
+ {
+  "id": "05_seventies_schnell",
+  "model": "schnell",
+  "style": "seventies",
+  "seed": 1830509889,
+  "prompt": "Wide blog header logo design. The text \"KING OF THE POP\" is the main element, very large and bold, filling most of the canvas, spelled exactly, highly legible even when scaled down. A smaller second line reads \"SAM GRIFFIN  PART 2\". Style: 1970s groovy rounded display type, warm stripes. Color palette limited to coral red #e8343a, pale yellow #efe2a0, warm gold #c9a45a, off white #f7f5ec, near black #1d1a17. Abstract or typographic only: no fishing lures, no fish, no product, no brand logos, no photographs, no extra words. Do not draw any lure, popper, bait or fishing tackle.",
+  "sec": 0.1,
+  "error": "HTTP 400: {\"errors\":[{\"message\":\"AiError: Bad input: Error: Additional or unevaluated properties '/seed' at '/' not allowed (563c4598-2ef4-4d27-90e6-8b332c36df81)\",\"code\":5006}],\"success\":false,\"result\":{},\"messages\":[]}"
+ }
+]
